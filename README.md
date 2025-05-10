@@ -8,6 +8,10 @@
 - 工具：创建新笔记和获取金融数据（新闻、股票、指数）
 - 提示词：生成笔记摘要
 
+<a href="https://glama.ai/mcp/servers/@guangxiangdebizi/my-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@guangxiangdebizi/my-mcp-server/badge" alt="Financial News and Notes Server MCP server" />
+</a>
+
 ## 功能特点
 
 ### 资源 (Resources)
