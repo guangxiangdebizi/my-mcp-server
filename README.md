@@ -1,5 +1,7 @@
 # FinanceMCP 财经数据服务器
 
+[![smithery badge](https://smithery.ai/badge/@guangxiangdebizi/FinanceMCP)](https://smithery.ai/server/@guangxiangdebizi/FinanceMCP)
+
 欢迎使用 **FinanceMCP 财经数据服务器**！本项目提供一个模型上下文协议 (MCP) 服务器，使语言模型（如 Cline）能够访问通过 **Tushare API** 获取的实时财经新闻、股票数据和指数数据。这使得基于最新的市场信息进行富有洞察力的分析和预测成为可能。
 
 本指南将引导您完成此服务器的设置、配置和使用，即使您是 MCP 或 Node.js 开发的新手也能轻松上手。
@@ -44,6 +46,16 @@
 ## 🛠️ 安装与设置
 
 请按照以下步骤启动并运行您的服务器：
+
+### 安装 FinanceMCP
+
+#### Installing via Smithery
+
+To install FinanceMCP for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@guangxiangdebizi/FinanceMCP):
+
+```bash
+npx -y @smithery/cli install @guangxiangdebizi/FinanceMCP --client claude
+```
 
 ### 1. 获取代码
 
